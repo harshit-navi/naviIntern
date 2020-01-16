@@ -5,7 +5,6 @@ public class Greet {
     }
     public String sayHelloName(String name)
     {
-        String random="";
-        return (random+name);
+        return ("Hello "+name);
     }
 }
